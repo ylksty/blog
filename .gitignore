@@ -1,0 +1,16 @@
+*.bin
+.idea/
+*.swp
+*.php~
+*.bak
+.settings/
+.project
+.buildpath
+protected/runtime/
+*.log
+/assets/
+.htaccess
+.tags
+.tags_sorted_by_file
+yg.html
+.ds_store
