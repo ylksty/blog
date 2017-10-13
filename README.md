@@ -1,14 +1,13 @@
-# Welcome ylksty/blog
+## Welcome ylksty/blog
 > github blog
 ### javaScript
 * [webpack][1]
 
-### tools
-* [git][2]
+### [tools][2]
 
 
 ### quickLink
-* <https://developer.mozilla.org/zh-CN/>
+* todo
 
 [1]:2017/10/webpack.md
-[2]:2017/10/git.md
+[2]:tools.md
