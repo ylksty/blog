@@ -10,5 +10,5 @@
 ### quickLink
 * <https://developer.mozilla.org/zh-CN/>
 
-[1]:2017/10/12/webpack.md
-[2]:2017/10/12/git.md
+[1]:2017/10/webpack.md
+[2]:2017/10/git.md

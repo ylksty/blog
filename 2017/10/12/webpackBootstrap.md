@@ -1,6 +1,7 @@
-## parent [webpack](./webpack.md)
-## [blog](../../../README.md)/[2017](../../README.md)/[10](../README.md)/12/webpackBootstrap
-### 打包一个模块
+## [webpack](../webpack.md)/webpack2生成代码分析1(webpackBootstrap)/[next](../13/webpackBootstrapVender.md)
+### [blog](../../../README.md)/[2017](../../README.md)/[10](../README.md)/12
+### 说明
+* 执行编译
 
 ### main.js
 ~~~js
