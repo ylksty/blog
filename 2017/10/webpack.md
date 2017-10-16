@@ -1,8 +1,11 @@
-## webpack
-### [blog](../../README.md)/[2017](../README.md)/[10](README.md)
+### [javascript](../../javascript.md)/webpack
+### [blog](../../README.md)/[2017](../README.md)/[10](README.md)/webpack
 ### 心得
 * 自己从头搭建，基本了解大概
 * 从 vuejs-templates/webpack 应用中学习
+
+### 
+* [vue](./)
 
 ### 相关资料
 * [webpack官方文档](https://doc.webpack-china.org/concepts/)
@@ -19,12 +22,16 @@
 * [webpack2生成代码分析2(webpackBootstrap+vender)][2]
 * [webpack2生成代码分析3(webpackBootstrap+vender+manifest)][3]
 
-### 坑
+### 拾遗
 * [webpack打包vue2.0项目时必现问题][101]
 * vue的Template不生效的问题
   * `<router-view/>`
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14)
 * [img不能显示的问题][102]
+* phantomjs-2.1.1-macosx.zip下载过慢 [参考](http://blog.csdn.net/zhu1500527791/article/details/53576169)
+    * 1.浏览器下载
+    * 2.copy
+    * 3.npm i --verbose
 
 
 [1]: 12/webpackBootstrap.md
@@ -33,3 +40,7 @@
 
 [101]: 13/webpackError1.md
 [102]: 14/webpackError2.md
+
+
+  
+
