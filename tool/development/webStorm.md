@@ -1,5 +1,4 @@
-### [tools](../../tools.md)/webstorm
-### [blog](../../README.md)/[2017](../README.md)/[10](README.md)/webstorm
+## root/[tool](../README.md)/development/webStorm
 ### 破解相关
 * [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 * [IntelliJ IDEA 2016注册方法和注册码](http://blog.csdn.net/gnail_oug/article/details/53977118)
