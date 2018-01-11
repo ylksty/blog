@@ -6,8 +6,7 @@
   - 运行并,进入容器内部 `docker run -it ylkget/kl:v1 bash`
   - 启动容器,并后台运行 `docker run -d ylkget/kl:v1 sh -c "do echo hello world;"`
   - 查看镜像支持的环境变量 `docker run ylkget/kl:v1 env`
-  - `docker run -d -v /Users/yanglk/WebstormProjects/kl:/data/www -p 7001:7001 --name kl ylkget/kl:v1`
-  - `docker run -d -v /data/www/kl:/data/www -p 7001:7001 --name kl ylkget/kl:v1`
+  - `docker run -d -v $PWD:/data/www -p 7001:7001 -p 8088:8080 --name kl ylkget/kl:v1`
 
 - 容器操作
   - 查看 `docker ps -a`
@@ -28,3 +27,5 @@
 - `docker logs`
 
 - `docker history`
+
+### 拾遗
