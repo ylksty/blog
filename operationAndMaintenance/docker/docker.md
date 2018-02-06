@@ -3,10 +3,8 @@
 - `docker build -t ylkget/kl:v1 .`
 
 - docker run
-  - 运行并,进入容器内部 `docker run -it ylkget/kl:v1 bash`
-  - 启动容器,并后台运行 `docker run -d ylkget/kl:v1 sh -c "do echo hello world;"`
-  - 查看镜像支持的环境变量 `docker run ylkget/kl:v1 env`
-  - `docker run -d -v $PWD:/data/www -p 7001:7001 -p 8088:8080 --name kl ylkget/kl:v1`
+  - docker run --rm -it ylkget/kl:v3 bash
+  - docker run -d -v $PWD:/www -p 7001:7001 -p 8088:8080 --name k3 ylkget/kl:v3
 
 - 容器操作
   - 查看 `docker ps -a`
@@ -28,4 +26,9 @@
 
 - `docker history`
 
+- `docker inspect`
+  - 查看已存在的容器所挂载的目录 `docker inspect container_name | grep Mounts -A 20`
+  - Once you have the ID, look for its IP address with: `docker inspect -f "{{ .NetworkSettings.IPAddress }}" <ID>`
+
 ### 拾遗
+
