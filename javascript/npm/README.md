@@ -1,2 +1,4 @@
 ## root/[javascript](../README.md)/npm
-### [sequelize](https://github.com/sequelize/sequelize)
+### [pit](pit.md)
+### lib
+* [sequelize](https://github.com/sequelize/sequelize)

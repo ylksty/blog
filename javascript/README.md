@@ -1,5 +1,5 @@
 ## [root](../README.md)/javascript
+### [npm](./npm/README.md)
 ### other
-* [npm](./other/npm.md)
 * [nvm](./other/nvm.md)
-* [eslint](./ohter/eslint.md)
+* [eslint](./other/eslint.md)
