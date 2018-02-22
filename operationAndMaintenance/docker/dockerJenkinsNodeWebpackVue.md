@@ -10,8 +10,8 @@
 * 1.统一环境
 
 #### 部署步骤
-* 1.docker build -t ylkget/kl:v2 .
-* 2.docker run -d -v $PWD:/data/www -p 7001:7001 -p 8088:8080 --name kl2 ylkget/kl:v2
-* 3.docker exec -it kl2 bash
-* 4.cd /data/www
+* 1.docker build -t ylkget/kl:v3 .
+* 2.docker run -d -v $PWD:/www -p 7001:7001 -p 8088:8080 --name kl3 ylkget/kl:v3
+* 3.docker exec -it kl3 bash
+* 4.cd /www
 * 5.npm run ...
