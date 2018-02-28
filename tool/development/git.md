@@ -38,3 +38,6 @@ git push origin :refs/tags/<tagname>
 ~~~
 git push origin :branch-name
 ~~~
+
+### 默认对文件名大小写不敏感 (不区分文件名大小写)
+* git config core.ignorecase false

@@ -9,9 +9,9 @@
 #### 针对前端开发的问题
 * 1.统一环境
 
-#### 部署步骤
-* 1.docker build -t ylkget/kl:v3 .
-* 2.docker run -d -v $PWD:/www -p 7001:7001 -p 8088:8080 --name kl3 ylkget/kl:v3
-* 3.docker exec -it kl3 bash
-* 4.cd /www
-* 5.npm run ...
+#### 步骤
+* docker build -t josephkl/kl:v3 .
+  * 或 docker pull josephkl/kl
+* docker run -d -v $PWD:/www -p 7001:7001 --name kl3 josephkl/kl:v3
+* docker exec -it kl3 bash
+* cd /www

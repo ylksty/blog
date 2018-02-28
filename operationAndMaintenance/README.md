@@ -3,6 +3,7 @@
 * [docker](./docker/docker.md)
 * [dockerJenkins](./docker/dockerJenkins.md)
 * [dockerJenkinsNodeWebpackVue](./docker/dockerJenkinsNodeWebpackVue.md)
+* [docker镜像上传](./docker/dockerPush.md)
 ### linux
 * [pit](./linux/pit.md)
 ### other
