@@ -45,3 +45,10 @@ git push origin :branch-name
 
 ### 添加子模块
 * git submodule add https://git.oschina.net/ylkget/yii2_vendor.git vendor
+
+### 优雅地删除远程一个版本
+* git reset HEAD~1
+* git push origin :abc
+
+### 优雅地删除本地一个版本
+* git reset --hard xxx

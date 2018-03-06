@@ -56,6 +56,9 @@ ssserver -c /etc/shadowsocks/config.json -d start
   * curl cip.cc
   
 ### 相关参考
+  * [aws](http://blog.csdn.net/f59130/article/details/74014415)
+    * export LC_ALL=C
+  
   * [Shadowsocks原理和搭建](http://blog.021xt.cc/archives/98)
   
   * [使用ssh正向连接、反向连接、做socks代理的方法](http://www.jianshu.com/p/a49848a063e7)
