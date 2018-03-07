@@ -11,5 +11,7 @@
 
 ### [concept](./concept/README.md)
 
+### [scienceHistory](./other/scienceHistory.md)
+
 ### 拾遗
 curl cip.cc

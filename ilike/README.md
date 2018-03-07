@@ -1,25 +1,7 @@
 ## [root](../README.md)/ilike
-### bilib
-* 回到2049
-* 问舰科幻
-* 小片片说大片
-* 电影最TOP
+### [bilibili](bilibili/README.md)
 
-### 喜马拉雅
-* 科学声音
-  * 汪诘
-    * 科学有故事
-  * 吴京平
-    * 时间的形状
-    * 科学史评话
-    * 柔软的宇宙
-  * 卓老板
-    * [卓老板聊科技](other/bosszhuo.md)
-  * 旭东
-    * 原来是这样
-    * geek实验室
-* 科技相对论
-* 罗辑思维
+### [喜马拉雅](himalayan/README.md)
 
 ### 腾讯视频
 * 吐槽大会
