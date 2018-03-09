@@ -1,4 +1,5 @@
 ## root/javascript/[other](../README.md)/npm
+## [npm 中文文档](https://www.npmjs.com.cn/)
 ### npm config get
 ### nrm
 ~~~
