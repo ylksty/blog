@@ -6,4 +6,5 @@
     * [Ant Design Pro](https://github.com/ant-design/ant-design-pro)
     
 ### react component
-* [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+* [react-router](https://github.com/ReactTraining/react-router)
+* [react-router-CN](https://github.com/react-translate-team/react-router-CN)
