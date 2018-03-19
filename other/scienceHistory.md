@@ -3,9 +3,11 @@
 - 1731
   * Henry Cavendish 1810 English
 - 1879
-  * Albert Einstein Germany 1955 Jew 
+  * Albert Einstein Germany Jew 1955  
+- 1887
+  * 薛定谔 Austria 1961
 - 1900
-  * Wolfgang Pauli 1958 Austria(奥地利)
+  * Wolfgang Pauli Austria Jew 1958 
 - 1991
   * Werner Heisenberg 1976 Germany
 - 1902
