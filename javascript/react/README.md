@@ -8,3 +8,4 @@
 ### react component
 * [react-router](https://github.com/ReactTraining/react-router)
 * [react-router-CN](https://github.com/react-translate-team/react-router-CN)
+* [react-redux](https://cn.redux.js.org/) 
