@@ -15,9 +15,11 @@
 - 1871
   * (Ernest Rutherford) 1937 New Zealand
 - 1879
-  * (Albert Einstein) Germany 1955 Jew 
+  * (Albert Einstein) Germany 1955 Jew
 - 1882
   * (Max) Born 1970 Germany
+- 1887
+  * 薛定谔 Austria 1961
 - 1890
   * (仁科芳雄) 1951 Japan
 - 1900
