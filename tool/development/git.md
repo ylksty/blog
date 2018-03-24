@@ -2,6 +2,36 @@
 ### 文档
 * [看这个就够了](https://github.com/geeeeeeeeek/git-recipes/wiki)
 
+###Git配置 `用户的git配置文件~/.gitconfig`
+~~~
+git config --global credential.helper store # 保存用户名密码
+git config --global user.name "yanglk"
+git config --global user.email "ylksty@163.com"
+git config --global color.ui true
+git config --global alias.co checkout  # 别名
+git config --global alias.ci commit
+git config --global alias.st status
+git config --global alias.br branch
+git config --global core.editor "vim"  # 设置Editor使用vim
+git config --global core.quotepath false # 设置显示中文文件名
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h %p%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+git config --global push.default matching
+~~~
+~~~
+git config --global credential.helper store
+git config --global user.name "yanglk"
+git config --global user.email "ylksty@163.com"
+git config --global color.ui true
+git config --global alias.co checkout
+git config --global alias.ci commit
+git config --global alias.st status
+git config --global alias.br branch
+git config --global core.editor "vim"
+git config --global core.quotepath false
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h %p%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+git config --global push.default matching
+~~~
+
 ### Github上fork项目后保持与源项目更新
 ~~~
 git remote add laradock https://github.com/laradock/laradock.git

@@ -1,11 +1,25 @@
 ## root/[javascript](../README.md)/react
-### [react](https://doc.react-china.org)
+### [React](https://doc.react-china.org)
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [dva](https://github.com/dvajs/dva)
   * [ant-design](https://github.com/ant-design/ant-design)
     * [Ant Design Pro](https://github.com/ant-design/ant-design-pro)
+* [jest](https://facebook.github.io/jest/)
+
+### [React Native](http://facebook.github.io/react-native/docs/getting-started.html)
     
-### react component
+### react ecosystem
 * [react-router](https://github.com/ReactTraining/react-router)
-* [react-router-CN](https://github.com/react-translate-team/react-router-CN)
-* [react-redux](https://cn.redux.js.org/) 
+  * [doc](https://github.com/react-translate-team/react-router-CN)
+* [redux](https://github.com/reactjs/redux)
+  * [doc](https://redux.js.org)
+  * [doc-ch](https://cn.redux.js.org/)
+  * [reduce-reducers](https://github.com/redux-utilities/reduce-reducers)
+  * [redux-actions](https://github.com/redux-utilities/redux-actions/blob/master/README.md)
+  * [reselect](https://github.com/reactjs/reselect)
+  * [redux-undo](https://github.com/omnidan/redux-undo)
+  * [redux-saga](https://github.com/redux-saga/redux-saga)
+    * [doc-ch](https://redux-saga-in-chinese.js.org/)
+    * [doc](https://redux-saga.js.org/)
+    * [doc-tra](https://github.com/neighborhood999/redux-saga)
+    * [doc-en](https://redux-saga.js.org/)
