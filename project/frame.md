@@ -1,4 +1,4 @@
-## [root](../README.md)/[project](./README.md)/[jjds 加减大师](https://github.com/ylksty/blog/blob/deploy/project/jjds.md)
+## [root](../README.md)/[project](./README.md)/[frame](https://github.com/ylksty/blog/blob/deploy/project/jjds.md)
 ### 前端
 * [mp.weixin.qq.com](https://mp.weixin.qq.com)
 * [wepy](https://github.com/Tencent/wepy)
@@ -47,4 +47,4 @@
     * sftp
     * gitlab
 
-[1]: https://github.com/ylksty/klwp
+[1]: http://192.168.0.118:88/yanglk/klwp
