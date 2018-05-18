@@ -15,11 +15,13 @@
 * demo todo
 
 ### 测试环境
-* [gitlab](http://192.168.0.118:88/)
+* ftp
+  * 192.168.0.118
 
 ### 腾讯云
 
 ### 公共
+* [代码管理 码云](https://gitee.com/ylkget)
 * [接口文档&mock] [eolinker.com](https://www.eolinker.com)
 * [流程bug] [tower](https://tower.im/teams/867a76f48c854e989628ef0fd68b57c5/projects/)
 * [图片存储] [portal.qiniu.com](https://portal.qiniu.com)
@@ -31,9 +33,9 @@
 ### 日志
 * 0502周三 熟悉wepy
 * 0503周四 熟悉wepy [klwp demo][1]完善
-* 0504周五  熟悉laradock
-* 0507周一  熟悉laravel
-* 0508周二  熟悉并完成 vsftp 在服务器搭建
+* 0504周五 熟悉laradock
+* 0507周一 熟悉laravel
+* 0508周二 熟悉并完成 vsftp 在服务器搭建
 * 0509周三  
   * 完成本地xdebug链接laradock容器
   * 完成线上调试环境
@@ -44,7 +46,12 @@
   * 测试服务器搭建
 * 0511周五
   * 测试服务器配置
-    * sftp
-    * gitlab
+    * ftp
+* 0514周一
+* 0515周二
+* 0515周二
+* 0516周三
+* 0518周五
+  * 四两应用
 
 [1]: http://192.168.0.118:88/yanglk/klwp
