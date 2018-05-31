@@ -1,10 +1,7 @@
 ## [root](../README.md)/operationAndMaintenance
 ### [docker](./docker/README.md)
-* [docker](./docker/docker.md)
-* [dockerJenkins](./docker/dockerJenkins.md)
 * [dockerJenkinsNodeWebpackVue](./docker/dockerJenkinsNodeWebpackVue.md)
-* [docker-compose](./docker/dockerCompose.md)
-* [laradock](./docker/laradock.md)
+
 
 ### linux
 * [vim](./linux/vim.md)

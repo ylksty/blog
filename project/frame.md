@@ -7,6 +7,7 @@
 * <http://laradock.io/>
   * docker-compose up -d workspace nginx mysql jenkins
   * docker-compose down
+  * docker-compose build workspace php-fpm nginx jenkins
   * docker-compose build workspace php-fpm nginx mysql jenkins
 * <https://laravel.com/>
   * composer create-project laravel/laravel larapi "5.6.*"
@@ -14,11 +15,15 @@
   * artisan key:generate
 * demo todo
 
+### jenkins
+* 
+
 ### 测试环境
 * ftp
   * 192.168.0.118
 
 ### 腾讯云
+
 
 ### 公共
 * [代码管理 码云](https://gitee.com/ylkget)
