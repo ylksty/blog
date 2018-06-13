@@ -82,3 +82,5 @@ git push origin :branch-name
 
 ### 优雅地删除本地一个版本
 * git reset --hard xxx
+
+### ssh-keygen -t rsa -C "xxx@163.com"

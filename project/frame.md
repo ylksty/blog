@@ -29,8 +29,8 @@
 
 ### 公共
 * [流程bug] <https://tower.im/teams/867a76f48c854e989628ef0fd68b57c5/projects/>
-* [蓝湖]<https://lanhuapp.com>
-* [xiaopiu]<https://www.xiaopiu.com/user?uid=5b03cec275c06766b0153cd5>
+* [蓝湖] <https://lanhuapp.com>
+* [xiaopiu] <https://www.xiaopiu.com/user?uid=5b03cec275c06766b0153cd5>
 
 ### 其他
 * git

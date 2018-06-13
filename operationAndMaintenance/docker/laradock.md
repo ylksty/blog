@@ -15,3 +15,5 @@
 * 3.容器外监听workspace容器的7001端口
 * 4.php-fpm容器 file_get_contents('http://egg:7001/') 成功!
 
+### 关于egg npm i 一定要用laradock权限
+
