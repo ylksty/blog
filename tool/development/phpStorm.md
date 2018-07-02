@@ -6,3 +6,8 @@
 * pits
   * xdebug.remote_host // 客户端ide所在ip地址，可以被服务器访问到
   * xdebug.remote_log  // 服务端服务开启时，会检测xdebug链接情况
+  * services
+    * name laradock
+    * host 192.168.0.151
+### 快捷键
+* 格式化 command alt l

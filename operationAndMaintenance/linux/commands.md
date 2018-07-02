@@ -6,3 +6,5 @@
 
 ### usermod
 * 同一个用户加到不同的组 usermod -G a,b user1 (重新打开链接有效)
+
+### crontab -e
