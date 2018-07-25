@@ -17,3 +17,6 @@
 
 ### 关于egg npm i 一定要用laradock权限
 
+### docker-compose build php-fpm 404错误
+* docker-compose build --no-cache php-fpm 
+

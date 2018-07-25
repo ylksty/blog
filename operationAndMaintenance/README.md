@@ -1,11 +1,9 @@
 ## [root](../README.md)/operationAndMaintenance
 ### [docker](./docker/README.md)
-* [dockerJenkinsNodeWebpackVue](./docker/dockerJenkinsNodeWebpackVue.md)
-
 
 ### linux
-* [vim](./linux/vim.md)
 * [pit](./linux/pit.md)
+* [vim](./linux/vim.md)
 * [commands](./linux/commands.md)
 * [sftp](./linux/sftp.md)
 * [aliyun](./linux/aliyun.md)
@@ -13,5 +11,5 @@
 * [testingEnv](./linux/testingEnv.md)
 
 ### other
-* [https搭建](./other/httpsBuild.md)
-* [jenkins](./other.jenkins.md)
+* [jenkins](./other/jenkins.md)
+* [mac](./other/mac.md)
