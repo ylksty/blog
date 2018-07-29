@@ -10,6 +10,9 @@
 * [ubuntu](./linux/ubuntu.md)
 * [testingEnv](./linux/testingEnv.md)
 
+### mysql
+* [pit](./mysql/pit.md)
+
 ### other
 * [jenkins](./other/jenkins.md)
 * [mac](./other/mac.md)
