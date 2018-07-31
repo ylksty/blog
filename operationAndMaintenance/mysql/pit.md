@@ -8,3 +8,6 @@
 ~~~
 
 ### docker里面都是远程连接
+
+### 命令行
+* 显示用户权限 show grants for jeffrey@'%';
