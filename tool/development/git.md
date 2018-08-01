@@ -84,3 +84,7 @@ git push origin :branch-name
 * git reset --hard xxx
 
 ### ssh-keygen -t rsa -C "xxx@163.com"
+
+### 第一次上传
+* git push -u origin master
+* git push -u -f origin master
