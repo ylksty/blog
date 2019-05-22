@@ -20,3 +20,10 @@
 ### docker-compose build php-fpm 404错误
 * docker-compose build --no-cache php-fpm 
 
+### 接口session失效的问题
+* Kernel.php 的 $middlewareGroups
+
+### nginx 定时任务开启
+* which crond
+* crond start
+

@@ -1,7 +1,4 @@
 ## [root](../README.md)/javascript
-## [wepy](../wepy/READEME.md)
-## [react](./react/README.md)
-## [webpack](https://webpack.js.org/)
 ### [npm](./npm/README.md)
 ### [vue](./vue/README.md)
 ### other

@@ -88,3 +88,13 @@ git push origin :branch-name
 ### 第一次上传
 * git push -u origin master
 * git push -u -f origin master
+
+### 把版本库已有的一部分内容去掉
+* git rm -r --cached static
+
+### fork后如何同步源的新更新内容
+* git remote add upstream https://github.com/museui/muse-ui.git
+* git fetch upstream
+* git checkout master
+* git merge upstream/master
+* git push origin master

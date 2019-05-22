@@ -8,3 +8,9 @@
 * 同一个用户加到不同的组 usermod -G a,b user1 (重新打开链接有效)
 
 ### crontab -e
+* which crond
+* crond start
+* cat /etc/crontabs/root
+* run-parts 无效的原因，执行文件不要带文件扩展
+
+### pgrep cron

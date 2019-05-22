@@ -1,4 +1,5 @@
 ## [root](../README.md)/ilike
+# [books](books/books.md)
 ### [bilibili](bilibili/README.md)
 
 ### [喜马拉雅](himalayan/README.md)
@@ -9,6 +10,3 @@
 ### 爱奇艺
 * 奇葩说
 
-### [books](books.md)
-
-### [European and American dramas](./EADramas.md)

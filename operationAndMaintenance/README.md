@@ -13,6 +13,8 @@
 ### mysql
 * [pit](./mysql/pit.md)
 
+### [nginx](./nginx/index.md)
+
 ### other
 * [jenkins](./other/jenkins.md)
 * [mac](./other/mac.md)
